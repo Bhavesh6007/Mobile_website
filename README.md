@@ -1,2 +1,2 @@
 # Mobile_website
-Simple Website using HTML and CSS
+Mobile Product Website using HTML and CSS
